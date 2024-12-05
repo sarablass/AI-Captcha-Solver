@@ -13,7 +13,7 @@ An AI-powered CAPTCHA assistance system that integrates with Google reCAPTCHA an
 ## Tech Stack
 
 - **Frontend**: React.js, Material-UI
-- **Backend**: Node.js, , JavaScript
+- **Backend**: Node.js, JavaScript
 - **Database**: MongoDB Atlas
 - **AI Integration**: Gemini AI
 - **Other Tools**: Google reCAPTCHA API
